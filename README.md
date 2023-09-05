@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Jogo da adivinhação /h1>
+<h1 align="center"> Projeto - Jogo da adivinhação </h1>
 
 <p align="center">
 Neste modúlo (Stage 05) do programa Explorer da Rocketseat estudaremos sobre manipulação da DOM, funções callback, recursividade e outros.
@@ -33,9 +33,9 @@ Avançando no Javascript
 
 ## 🔖 Layout do projeto
 
-![PRO2-1](https://user-images.githubusercontent.com/94652702/218311709-fd5d812f-c945-4b5a-a4ab-09695d20b501.png)
+![PRO2-1](https://github.com/fisiofaz/Jogo.de.Adivinhar/tree/main/image)
 <br>
-Link do Figma: 
+# Link do Figma: 
 <br>
 https://www.figma.com/file/NaZDA2LbofP5DyhxnvY9Rg/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=0%3A1&t=tiTFrqNhvQtf6fUb-0
 <br>
