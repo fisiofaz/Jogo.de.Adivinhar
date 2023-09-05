@@ -48,7 +48,9 @@ https://www.figma.com/file/NaZDA2LbofP5DyhxnvY9Rg/Jogo-Adivinha%C3%A7%C3%A3o-(Co
 - Princípios do Clean Code;
 
 ## Você pode acessar o projeto e ver seus efeitos no site abaixo
-
+https://github.com/fisiofaz/Jogo.de.Adivinhar
+<br>
+https://fisiofaz.github.io/Jogo.de.Adivinhar/
 ---
 ## Contatos
 
