@@ -33,7 +33,7 @@ Avançando no Javascript
 
 ## 🔖 Layout do projeto
 
-![PRO2-1](https://github.com/fisiofaz/Jogo.de.Adivinhar/tree/main/image)
+![PRO2-1](https://user-images.githubusercontent.com/94652702/218311709-fd5d812f-c945-4b5a-a4ab-09695d20b501.png)
 <br>
 # Link do Figma: 
 <br>
